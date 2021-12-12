@@ -1,6 +1,5 @@
-# CMPT 353 Project
-## OpenStreetMap, Photos, and Tours
-### Maggie Xu, Vaanyi Igiri, Aleksandar Vranjes
+# OpenStreetMap, Photos, and Tours
+## Maggie Xu, Vaanyi Igiri, Aleksandar Vranjes
 
 For a list of all modules/packages needed to run the code, see **requirements.txt**.
 All data used for the Airbnb processing is in the data folder; the OSM json file is in the osm folder.
